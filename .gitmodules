@@ -1,6 +1,0 @@
-[submodule "script-sources/mpv-playlistmanager"]
-	path = script-sources/mpv-playlistmanager
-	url = https://github.com/jonniek/mpv-playlistmanager
-[submodule "script-sources/skip-intro"]
-	path = script-sources/skip-intro
-	url = https://github.com/rui-ddc/skip-intro
